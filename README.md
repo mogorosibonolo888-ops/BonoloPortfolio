@@ -63,7 +63,7 @@ JavaScript is used in the contact form to prevent the page from refreshing when 
 
 ## Live Website
 
-GitHub Pages link will be added after deployment.
+ [View my live portfolio](https://mogorosibonolo888-ops.github.io/BonoloPortfolio/)
 
 ## Author
 

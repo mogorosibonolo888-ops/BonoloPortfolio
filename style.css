@@ -202,3 +202,13 @@ section h2 {
         padding: 50px 20px;
     }
 }
+
+.profile-picture {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 100%;
+    border: 3px solid #B78C8C;
+    display: block;
+    margin: 20px auto;
+}
